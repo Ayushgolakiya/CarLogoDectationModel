@@ -1,2 +1,0 @@
-# CarLogoDectationModel
-Car_Logo
