@@ -1,10 +1,6 @@
-To create a README file for your project, it's important to cover key sections that explain the purpose, structure, and usage of your codebase. Below is a suggested outline and draft for your README, which you can further customize based on your project specifics:
 
----
 
-# Project Title
-
-**Description:**  
+# Project Title  
 This project involves data scraping, image preprocessing, and object detection using YOLO models, integrated into a web application with both frontend and backend functionalities. The primary goal is to detect car logos and brands from images and videos using deep learning models.
 
 ## Table of Contents
@@ -118,6 +114,3 @@ Feel free to contribute by creating pull requests or raising issues. Make sure t
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-This draft should give a clear overview of the project and guide users through setting it up, running the code, and understanding the structure. Adjust the installation and usage instructions according to your specific project details, dependencies, and environment setup.
